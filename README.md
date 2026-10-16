@@ -4,3 +4,7 @@ moje oblibena hra je Valorant
 ![Valorant](images/download.webp)
 <br>
 Nastiv [google](https://www.google.com)
+<br>
+- toto
+- je
+- seznam
